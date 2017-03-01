@@ -5,5 +5,8 @@ Application shortcutted as MIA is for monitoring your activity and rising alarm 
 MIA integrates social networks APIs (google plus, facebook, twitter) to determine your last activity, sends help or contact requests to your friends if you're missing with additional information which might help to find you in case of emergency.
 
 Dependencies:
-1. Meteor (nodejs)
-2. React
+* Meteor (NodeJS, MongoDB)
+* React
+
+Running local development server:
+1. meteor
